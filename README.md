@@ -1,10 +1,10 @@
 
 
-# ✨ AI Makeup Studio: Natural Language to Deterministic Image Transformation
+# ✨ AI Brush : Natural Language to Deterministic Image Transformation
 
 ## 📌 Overview
 
-**AI Makeup Studio** is a modular AI system that bridges human natural language intent with a deterministic computer vision and image editing pipeline.
+**AI Brush** is a modular AI system that bridges human natural language intent with a deterministic computer vision and image editing pipeline.
 
 Instead of relying on generative AI (like Diffusion models) which can hallucinate or alter user identity, this project uses a structured multi-component architecture: **an LLM for semantic understanding** and a **Custom CV Pipeline for pixel-level, deterministic transformations.**
 
